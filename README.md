@@ -11,7 +11,7 @@
 ---
 
 ### Hi 👋 I am Avihay Finish <br>
-I am a computer science student on second year. <br>
+A computer science graduate. <br>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avihay-finish-a18837238/) <br>
 
 ### :hammer_and_wrench: Languages:
